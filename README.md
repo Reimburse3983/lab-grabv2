@@ -2,9 +2,9 @@ This is a python program that will automatically set up a lab template for every
 
 
 
-![Click on Account in Canvas](https://github.com/Reimburse3983/lab-grab/blob/main/Screenshot%202025-04-02%20201416.png)
-![Then Settings inside of Account](https://github.com/Reimburse3983/lab-grab/blob/main/Screenshot%202025-04-02%20201437.png)
-![Scroll down and click the New Access Token Button](https://github.com/Reimburse3983/lab-grab/blob/main/Screenshot%202025-04-02%20201531.png)
-![Type Canvas Interaction Code in the purpose making sure to leave expiration date and time empty](https://github.com/Reimburse3983/lab-grab/blob/main/Screenshot%202025-04-02%20201555.png)
+![Click on Account in Canvas](https://github.com/Reimburse3983/lab-grabv2/blob/main/Screenshot%202025-04-02%20201416.png)
+![Then Settings inside of Account](https://github.com/Reimburse3983/lab-grabv2/blob/main/Screenshot%202025-04-02%20201437.png)
+![Scroll down and click the New Access Token Button](https://github.com/Reimburse3983/lab-grabv2/blob/main/Screenshot%202025-04-02%20201531.png)
+![Type Canvas Interaction Code in the purpose making sure to leave expiration date and time empty](https://github.com/Reimburse3983/lab-grabv2/blob/main/Screenshot%202025-04-02%20201555.png)
 **Make sure to copy this value to notepad**
-![Copy the token and sumbit it to the program](https://github.com/Reimburse3983/lab-grab/blob/main/Screenshot%202025-04-02%20201612.png)
+![Copy the token and sumbit it to the program](https://github.com/Reimburse3983/lab-grabv2/blob/main/Screenshot%202025-04-02%20201612.png)
